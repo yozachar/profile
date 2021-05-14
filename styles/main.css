@@ -52,6 +52,10 @@ a {
   font-weight: 700;
 }
 
+img.profile {
+  border-radius: 10%;
+}
+
 i {
   font-style: normal;
 }
